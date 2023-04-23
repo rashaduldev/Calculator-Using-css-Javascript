@@ -4,6 +4,15 @@
     font-family: 'poppins' , sans-serif;
     box-sizing: border-box;
 }
+/* Header part Start */
+
+header{
+    background: #E0E0E0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* Header part End  */
 .container{
     width: 100%;
     height: 100vh;
