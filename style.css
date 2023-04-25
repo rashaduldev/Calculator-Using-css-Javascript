@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 'poppins' , sans-serif;
     box-sizing: border-box;
+    
 }
 /* Header part Start */
 
@@ -11,6 +12,9 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
+    font-style: italic;
+    width: 100%;
+    text-shadow: 1px -1px 4px rgba(103, 35, 128, 1);
 }
 /* Header part End  */
 .container{
@@ -20,6 +24,7 @@ header{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: -10px;
 }
 .calculator{
     background: #54e2e7;
